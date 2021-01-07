@@ -6,3 +6,4 @@
 
 ## Trainees
 -Parmar Tarun
+-Parmar tarun (not with GUI)
