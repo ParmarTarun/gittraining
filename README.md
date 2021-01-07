@@ -8,3 +8,5 @@
 - Parmar Tarun
 - Parmar tarun (not with GUI)
 - Niranjan Patil
+ - Rishabh Bhatnagar
+ - Niranjan Patil
